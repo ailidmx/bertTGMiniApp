@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 
-const API_BASE = 'https://script.google.com/macros/s/AKfycbw5zOnIVfJ08uOkFrRxXU11P5x2PoZhPwjUbSVyhzXjK-7ANxwuantCTc0Lw7N6YXNT8g/exec';
+const API_BASE = 'https://script.google.com/macros/s/AKfycbyCda7MrinTA9ZWHRDPIdt8STYgufDmDUI2hjDBp5ccCRvC686-KE4E_YhTFh8XD8YDCA/exec';
 const API_TOKEN = 'BERT2026*';
 
 function useApi(endpoint, initial) {

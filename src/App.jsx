@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 
 const API_BASE = 'https://script.google.com/macros/s/AKfycbzGil_ExVCKOAUsJreds_mWscI9m35jlW7VSYxemS3edrLFWKjE6ResNxrBIWwhhYue6Q/exec';
+const API_TOKEN = 'BERT2026*';
 
 function useApi(endpoint, initial) {
   const [data, setData] = useState(initial);
@@ -9,7 +10,7 @@ function useApi(endpoint, initial) {
 
   useEffect(() => {
     let active = true;
-    const url = `${API_BASE}?api=${endpoint}`;
+    const url = `${API_BASE}?api=${endpoint}&token=${encodeURIComponent(API_TOKEN)}`;
     console.log(`[MiniApp] fetch start ${endpoint}`, url);
     setLoading(true);
     fetch(url)

@@ -9,20 +9,28 @@ function useApi(endpoint, initial) {
 
   useEffect(() => {
     let active = true;
+    const url = `${API_BASE}?api=${endpoint}`;
+    console.log(`[MiniApp] fetch start ${endpoint}`, url);
     setLoading(true);
-    fetch(`${API_BASE}?api=${endpoint}`)
-      .then((res) => res.json())
+    fetch(url)
+      .then((res) => {
+        console.log(`[MiniApp] fetch status ${endpoint}`, res.status);
+        return res.json();
+      })
       .then((json) => {
         if (!active) return;
+        console.log(`[MiniApp] fetch data ${endpoint}`, json);
         setData(json);
         setError('');
       })
       .catch((err) => {
         if (!active) return;
+        console.error(`[MiniApp] fetch error ${endpoint}`, err);
         setError(err.message || 'Error');
       })
       .finally(() => {
         if (!active) return;
+        console.log(`[MiniApp] fetch done ${endpoint}`);
         setLoading(false);
       });
     return () => {

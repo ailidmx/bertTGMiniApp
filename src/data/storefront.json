@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "title": "Casa Bert · Mini Shop"
+  },
+  "hero": {
+    "title": "Snacks saludables, prácticos y ricos",
+    "text": "Precio único de 15 pesos. Elige por categoría, agrega al carrito y arma tu pedido rápido."
+  },
+  "location": {
+    "name": "Casa Bert",
+    "address": "Epigmenio González 1106, Mexicaltzingo, Guadalajara",
+    "mapUrl": "https://maps.app.goo.gl/BCrKEeEuDD6sPMqC6",
+    "instagram": "https://www.instagram.com/",
+    "mapsPhotos": [],
+    "instagramPosts": []
+  },
+  "catalog": [
+    {
+      "name": "Fruta deshidratada",
+      "items": [
+        {
+          "name": "Plátano deshidratado",
+          "description": "Crujiente y natural",
+          "price": 15,
+          "fotoUrl": ""
+        },
+        {
+          "name": "Mango enchilado",
+          "description": "Dulce con toque picosito",
+          "price": 15,
+          "fotoUrl": ""
+        }
+      ]
+    },
+    {
+      "name": "Mix y semillas",
+      "items": [
+        {
+          "name": "Mix frutos secos",
+          "description": "Energía para todo el día",
+          "price": 15,
+          "fotoUrl": ""
+        },
+        {
+          "name": "Semillas tostadas",
+          "description": "Snack alto en proteína",
+          "price": 15,
+          "fotoUrl": ""
+        }
+      ]
+    }
+  ]
+}

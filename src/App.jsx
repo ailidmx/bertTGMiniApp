@@ -141,6 +141,8 @@ export default function App() {
       ? storefront.location.instagramPhotos
       : [];
   const dict = I18N[lang] || I18N.es;
+  const catalogVersion = storefront?.meta?.version || 'live';
+  const catalogUpdatedAt = storefront?.meta?.updatedAt || 'n/d';
 
   useEffect(() => {
     if (!categoryNames.length) {
@@ -248,6 +250,7 @@ export default function App() {
         <footer className="rounded-2xl border border-emerald-200 bg-white/90 p-4 text-center text-xs text-emerald-800 shadow-sm">
           <p className="font-semibold">Powered by ailidmx · david.aili.mx@gmail.com</p>
           <p className="mt-1">Build: {BUILD_DATE} · Version: v{APP_VERSION}</p>
+          <p className="mt-1">Catálogo: v{catalogVersion} · {catalogUpdatedAt}</p>
         </footer>
       </main>
 

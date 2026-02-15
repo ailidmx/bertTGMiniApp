@@ -1,6 +1,7 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import HeroSection from './components/sections/HeroSection';
 import ProductCarousel from './components/catalog/ProductCarousel';
+import CategoryFilterCloud from './components/catalog/CategoryFilterCloud';
 import CartSummary from './components/cart/CartSummary';
 import GitProductGallery from './components/gallery/GitProductGallery';
 import SocialGallery from './components/gallery/SocialGallery';
@@ -89,6 +90,7 @@ export default function App() {
   const [loading, setLoading] = useState(true);
   const [loadError, setLoadError] = useState('');
   const [cart, setCart] = useState({});
+  const [selectedCategory, setSelectedCategory] = useState('');
   const [lang, setLang] = useState('es');
   const [toastMessage, setToastMessage] = useState('');
   const [toastVisible, setToastVisible] = useState(false);
@@ -120,6 +122,14 @@ export default function App() {
   }, [storefront?.meta?.title]);
 
   const catalog = Array.isArray(storefront?.catalog) ? storefront.catalog : [];
+  const categoryNames = useMemo(
+    () => catalog.map((c) => c?.name).filter(Boolean),
+    [catalog]
+  );
+  const selectedCategoryData = useMemo(() => {
+    return catalog.find((c) => c.name === selectedCategory) || catalog[0] || null;
+  }, [catalog, selectedCategory]);
+
   const mapsPhotos = Array.isArray(storefront?.location?.mapsPhotos)
     ? storefront.location.mapsPhotos
     : Array.isArray(storefront?.location?.photos)
@@ -131,6 +141,16 @@ export default function App() {
       ? storefront.location.instagramPhotos
       : [];
   const dict = I18N[lang] || I18N.es;
+
+  useEffect(() => {
+    if (!categoryNames.length) {
+      setSelectedCategory('');
+      return;
+    }
+    if (!selectedCategory || !categoryNames.includes(selectedCategory)) {
+      setSelectedCategory(categoryNames[0]);
+    }
+  }, [categoryNames, selectedCategory]);
 
   const cartSummary = useMemo(() => {
     const lines = Object.values(cart);
@@ -177,17 +197,21 @@ export default function App() {
             </p>
           ) : null}
 
-          <div className="space-y-5">
-            {catalog.map((category) => (
-              <ProductCarousel
-                key={category.name}
-                categoryName={category.name}
-                items={category.items || []}
-                onAdd={addToCart}
-                fixedPrice={FIXED_PRICE}
-              />
-            ))}
-          </div>
+          <CategoryFilterCloud
+            categories={categoryNames}
+            selectedCategory={selectedCategoryData?.name || ''}
+            onSelect={setSelectedCategory}
+          />
+
+          {selectedCategoryData ? (
+            <ProductCarousel
+              key={selectedCategoryData.name}
+              categoryName={selectedCategoryData.name}
+              items={selectedCategoryData.items || []}
+              onAdd={addToCart}
+              fixedPrice={FIXED_PRICE}
+            />
+          ) : null}
         </section>
 
         <GitProductGallery />

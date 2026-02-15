@@ -9,6 +9,7 @@ import ToastNotice from './components/ui/ToastNotice';
 const FIXED_PRICE = 15;
 const APP_VERSION = '1.0.0';
 const BUILD_DATE = '2026-02-14 19:27 (MX)';
+const DEFAULT_INSTAGRAM_URL = 'https://www.instagram.com/casa_bert/?hl=en';
 const STOREFRONT_REMOTE_URL =
   'https://raw.githubusercontent.com/ailidmx/bertTGMiniApp/main/src/data/storefront.json';
 const GITHUB_PRODUCT_CONTENTS_API = 'https://api.github.com/repos/ailidmx/BertClient/contents/img/product';
@@ -211,7 +212,7 @@ export default function App() {
             </a>
             <a
               className="rounded-full border border-emerald-300 bg-emerald-100 px-3 py-1.5 text-sm font-semibold text-emerald-900"
-              href={storefront?.location?.instagram || '#'}
+              href={storefront?.location?.instagram || DEFAULT_INSTAGRAM_URL}
               target="_blank"
               rel="noreferrer"
             >
@@ -221,7 +222,7 @@ export default function App() {
         </section>
 
         <footer className="rounded-2xl border border-emerald-200 bg-white/90 p-4 text-center text-xs text-emerald-800 shadow-sm">
-          <p className="font-semibold">Powered by ailidmx · david.aili.mx@gmai.com</p>
+          <p className="font-semibold">Powered by ailidmx · david.aili.mx@gmail.com</p>
           <p className="mt-1">Build: {BUILD_DATE} · Version: v{APP_VERSION}</p>
         </footer>
       </main>

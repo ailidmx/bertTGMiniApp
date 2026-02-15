@@ -1,0 +1,43 @@
+name: Sync storefront JSON (daily)
+
+on:
+  schedule:
+    - cron: '15 8 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate secret
+        run: |
+          if [ -z "${{ secrets.STOREFRONT_SOURCE_URL }}" ]; then
+            echo "Missing STOREFRONT_SOURCE_URL secret"
+            exit 1
+          fi
+
+      - name: Fetch latest storefront JSON
+        run: |
+          mkdir -p src/data
+          curl -fsSL "${{ secrets.STOREFRONT_SOURCE_URL }}" -o src/data/storefront.json.tmp
+          jq '.' src/data/storefront.json.tmp > src/data/storefront.json
+          rm -f src/data/storefront.json.tmp
+
+      - name: Commit and push when changed
+        run: |
+          if git diff --quiet -- src/data/storefront.json; then
+            echo "No storefront changes"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/storefront.json
+          git commit -m "chore: daily sync storefront.json"
+          git push

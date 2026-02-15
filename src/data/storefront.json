@@ -1,1 +1,1328 @@
-{"meta":{"title":"Casa Bert Mini App","subtitle":"Catálogo dinámico","updatedAt":"14/02/2026 19:05","cacheSeconds":180},"brand":{"logoUrl":"","primary":"#0f3d2e","secondary":"#1f7a53","tertiary":"#2f9e74","accent":"#a7f3d0"},"hero":{"badge":"CASA BERT","title":"Snacks saludables a solo $15 MXN","text":"Carrito rápido, categorías y fichas de producto."},"cta":{"addButtonLabel":"Agregar","emptyCartText":"Tu carrito está vacío. ¡Empieza a agregar productos!"},"pricing":{"currency":"MXN","fixedPrice":15,"label":"Precio único: $15 MXN"},"location":{"name":"Casa Bert","address":"Epigmenio González 1106, Mexicaltzingo, Guadalajara","phone":"+523318779389","mapUrl":"https://maps.app.goo.gl/BCrKEeEuDD6sPMqC6","instagram":"https://www.instagram.com/casa_bert/?hl=en","facebook":"","photos":[],"instagramPhotos":[]},"catalog":[{"name":"BOTANAS","items":[{"name":"BOTANA MIXTA","fotoUrl":"","description":"","price":15},{"name":"CACAHUATE CASCARITA","fotoUrl":"","description":"","price":15},{"name":"CACAHUATE ENCHILADO GRANDE","fotoUrl":"","description":"","price":15},{"name":"CACAHUATE GARAMPINADO","fotoUrl":"","description":"","price":15},{"name":"CACAHUATE JAPONES HOT NUT","fotoUrl":"","description":"","price":15},{"name":"CACAHUATE JAPONES HOT QUESO","fotoUrl":"","description":"","price":15},{"name":"CACAHUATE JAPONES SIMPLE DELAROSA","fotoUrl":"","description":"","price":15},{"name":"CACAHUATE MACHO GRANDE","fotoUrl":"","description":"","price":15},{"name":"CACAHUATE MARTAJADO","fotoUrl":"","description":"","price":15},{"name":"FRITURA ENCHILADA","fotoUrl":"","description":"","price":15},{"name":"HABA ENCHILADA","fotoUrl":"","description":"","price":15},{"name":"MAIZ CHILE LIMON","fotoUrl":"","description":"","price":15},{"name":"MAIZ INFLADO CHILE LIMON","fotoUrl":"","description":"","price":15},{"name":"MAIZ INFLADO JALAPENO","fotoUrl":"","description":"","price":15},{"name":"MAIZ INFLADO QUESO CHILE","fotoUrl":"","description":"","price":15},{"name":"MAIZ INFLADO RANCHERO","fotoUrl":"","description":"","price":15},{"name":"MAIZ INFLADO SALSAS NEGRAS","fotoUrl":"","description":"","price":15},{"name":"PALOMITA NATURAL","fotoUrl":"","description":"","price":15},{"name":"PAPA FRITA","fotoUrl":"","description":"","price":15}]},{"name":"CEREALES","items":[{"name":"CEREAL FRUTIRUEDA (FROOT LOOPS)","fotoUrl":"","description":"","price":15},{"name":"CEREAL HOJUELA AZUCARADA","fotoUrl":"","description":"","price":15},{"name":"CEREAL RIKIRROZ MAIZORO (CHOCO KRISPIS)","fotoUrl":"","description":"","price":15}]},{"name":"CHOCOLATES","items":[{"name":"ALMENDRA CON CHOCOLATE","fotoUrl":"","description":"","price":15},{"name":"CAFE CON CHOCOLATE","fotoUrl":"","description":"","price":15},{"name":"CHISPAS DE CHOCOLATE LUSSEL","fotoUrl":"","description":"","price":15},{"name":"CHOCOLATE AMARGO S/ AZUCAR","fotoUrl":"","description":"","price":15},{"name":"CONFICHOKY","fotoUrl":"","description":"","price":15},{"name":"MINI-LUNETAS","fotoUrl":"","description":"","price":15},{"name":"PASAS CON CHOCOLATE","fotoUrl":"","description":"","price":15}]},{"name":"DULCES","items":[{"name":"ARO DURAZNO LUCKY","fotoUrl":"","description":"","price":15},{"name":"ATE DE MEMBRILLO","fotoUrl":"","description":"","price":15},{"name":"BOMBON MEDIANO","fotoUrl":"","description":"","price":15},{"name":"BOMBON MINIATURA","fotoUrl":"","description":"","price":15},{"name":"BORRACHITOS","fotoUrl":"","description":"","price":15},{"name":"CACAHUATE C/CARAMEL","fotoUrl":"","description":"","price":15},{"name":"CANGURU MANGO","fotoUrl":"","description":"","price":15},{"name":"CANGURU SANDIA","fotoUrl":"","description":"","price":15},{"name":"CANGURU TAMARINDO","fotoUrl":"","description":"","price":15},{"name":"CEREZA CHERRY","fotoUrl":"","description":"","price":15},{"name":"CORAZON LUCKY","fotoUrl":"","description":"","price":15},{"name":"GAJO COLOR","fotoUrl":"","description":"","price":15},{"name":"HUESITO (CHOCO-GALLETA)","fotoUrl":"","description":"","price":15},{"name":"LAPOSSE SOUR FRUTS","fotoUrl":"","description":"","price":15},{"name":"LUNETA DE COLORES","fotoUrl":"","description":"","price":15},{"name":"MANGO PETACON CHAMOY","fotoUrl":"","description":"","price":15},{"name":"MANGOMITA","fotoUrl":"","description":"","price":15},{"name":"PINA ENCHILADA","fotoUrl":"","description":"","price":15}]},{"name":"ENDULZANTES","items":[{"name":"AZUCAR ESTANDAR","fotoUrl":"","description":"","price":15},{"name":"AZUCAR MASCABADO","fotoUrl":"","description":"","price":15},{"name":"PILONCILLO CONO MEXPAN","fotoUrl":"","description":"","price":15},{"name":"PILONCILLO MOLIDO","fotoUrl":"","description":"","price":15}]},{"name":"GOMITAS","items":[{"name":"FRUTA LUCKY","fotoUrl":"","description":"","price":15},{"name":"GOMAS FRUTAS DEL BOSQUE","fotoUrl":"","description":"","price":15},{"name":"GOMINA","fotoUrl":"","description":"","price":15},{"name":"LOMBRICES","fotoUrl":"","description":"","price":15},{"name":"LOMBRICES ACIDITAS (NEON LUCKY)","fotoUrl":"","description":"","price":15},{"name":"PANDA RICOLINO","fotoUrl":"","description":"","price":15},{"name":"SHARK LUCKY","fotoUrl":"","description":"","price":15}]},{"name":"HARINAS","items":[{"name":"GALLETA ANIMALITO","fotoUrl":"","description":"","price":15},{"name":"GALLETA AVENA (CAJA)","fotoUrl":"","description":"","price":15},{"name":"GALLETA BIROTITO (CAJA)","fotoUrl":"","description":"","price":15},{"name":"GALLETA CAMPECHANA (CAJA)","fotoUrl":"","description":"","price":15},{"name":"GALLETA INTEGRAL MULTIGRANO (CAJA)","fotoUrl":"","description":"","price":15},{"name":"GALLETA MANTEQUILLA (CAJA)","fotoUrl":"","description":"","price":15},{"name":"GALLETA MINI LETRA","fotoUrl":"","description":"","price":15},{"name":"GALLETA OREJAS","fotoUrl":"","description":"","price":15},{"name":"GALLETA POLVORON DE NARANJA","fotoUrl":"","description":"","price":15},{"name":"PAN DE TRIGO Y SALVADO","fotoUrl":"","description":"","price":15},{"name":"PAN DE TRIGO Y SALVADO C/FRUTOS","fotoUrl":"","description":"","price":15}]},{"name":"NUECES Y FRUTOS SECOS","items":[{"name":"ALMENDRA EN POLVO","fotoUrl":"","description":"","price":15},{"name":"ALMENDRA ENTERA","fotoUrl":"","description":"","price":15},{"name":"ARANDANO OCEAN","fotoUrl":"","description":"","price":15},{"name":"AVELLANA PELADA","fotoUrl":"","description":"","price":15},{"name":"CACAHUATE DORADO","fotoUrl":"","description":"","price":15},{"name":"CHABACANO ENTERO","fotoUrl":"","description":"","price":15},{"name":"CIRUELA PASA S/HUESO","fotoUrl":"","description":"","price":15},{"name":"COCO ORGANICO MOLIDO","fotoUrl":"","description":"","price":15},{"name":"COCO REBANADO NATURAL Y DORADO","fotoUrl":"","description":"","price":15},{"name":"DATIL GRANDE MEDJOOL","fotoUrl":"","description":"","price":15},{"name":"FRUTA PICADA","fotoUrl":"","description":"","price":15},{"name":"NUEZ DE CASTILLA","fotoUrl":"","description":"","price":15},{"name":"NUEZ DE LA INDIA CON SAL","fotoUrl":"","description":"","price":15},{"name":"NUEZ MITADES","fotoUrl":"","description":"","price":15},{"name":"NUEZ MIXTA","fotoUrl":"","description":"","price":15},{"name":"PISTACHE CHIO","fotoUrl":"","description":"","price":15},{"name":"UVA PASA MEDIANA","fotoUrl":"","description":"","price":15}]},{"name":"OTROS POLVOS Y AFINES","items":[{"name":"GRENETINA GEL CENTRO 300 BLUMS","fotoUrl":"","description":"","price":15}]},{"name":"PRODUCTOS PARA BEBIDAS","items":[{"name":"CACAO MOLIDO","fotoUrl":"","description":"","price":15},{"name":"CAFE SOLUBLE","fotoUrl":"","description":"","price":15},{"name":"JAMAICA","fotoUrl":"","description":"","price":15},{"name":"LECHE EN POLVO","fotoUrl":"","description":"","price":15},{"name":"TAMARINDO ENTERO","fotoUrl":"","description":"","price":15}]},{"name":"REGALOS","items":[{"name":"LIBRETA (PIEZA)","fotoUrl":"","description":"","price":15},{"name":"PULSERA","fotoUrl":"","description":"","price":15}]},{"name":"SALES, ESPECIAS Y CONDIMENTOS","items":[{"name":"AJO ENTERO MEDIANO","fotoUrl":"","description":"","price":15},{"name":"AJO MOLIDO","fotoUrl":"","description":"","price":15},{"name":"ALBAHACA","fotoUrl":"","description":"","price":15},{"name":"ANIS ESTRELLA","fotoUrl":"","description":"","price":15},{"name":"ANIS VERDE","fotoUrl":"","description":"","price":15},{"name":"BICARBONATO DE SODIO","fotoUrl":"","description":"","price":15},{"name":"CANELA EN VARA","fotoUrl":"","description":"","price":15},{"name":"CANELA PURA MOLIDA","fotoUrl":"","description":"","price":15},{"name":"CARDAMOMO","fotoUrl":"","description":"","price":15},{"name":"CEBOLLA ENTERA","fotoUrl":"","description":"","price":15},{"name":"CEBOLLA MOLIDA","fotoUrl":"","description":"","price":15},{"name":"CHILE ANCHO 1ERA PASERA","fotoUrl":"","description":"","price":15},{"name":"CHILE INDIO S/C S-17","fotoUrl":"","description":"","price":15},{"name":"CHILE MIRASOL 1ERA PASERA","fotoUrl":"","description":"","price":15},{"name":"CLAVO DE OLOR","fotoUrl":"","description":"","price":15},{"name":"CLAVO DE OLOR MOLIDO","fotoUrl":"","description":"","price":15},{"name":"COMINO ENTERO","fotoUrl":"","description":"","price":15},{"name":"COMINO MOLIDO","fotoUrl":"","description":"","price":15},{"name":"CONSAZON CONSOME","fotoUrl":"","description":"","price":15},{"name":"CURCUMA ENTERA","fotoUrl":"","description":"","price":15},{"name":"CURCUMA MOLIDA","fotoUrl":"","description":"","price":15},{"name":"CURRY POLVO","fotoUrl":"","description":"","price":15},{"name":"HOJA BUGAMBILIA","fotoUrl":"","description":"","price":15},{"name":"HOJA CILANTRO","fotoUrl":"","description":"","price":15},{"name":"HOJAS LAUREL ENTERA","fotoUrl":"","description":"","price":15},{"name":"JENGIBRE ENTERO (SECO)","fotoUrl":"","description":"","price":15},{"name":"JENGIBRE MOLIDO","fotoUrl":"","description":"","price":15},{"name":"NUEZ MOSCADA MOLIDA","fotoUrl":"","description":"","price":15},{"name":"OREGANO CON MARCA","fotoUrl":"","description":"","price":15},{"name":"PEREJIL","fotoUrl":"","description":"","price":15},{"name":"PIMIENTA CAYENA","fotoUrl":"","description":"","price":15},{"name":"PIMIENTA NEGRA MOLIDA","fotoUrl":"","description":"","price":15},{"name":"PIMIENTA TABASCO DE ORIGEN","fotoUrl":"","description":"","price":15},{"name":"ROMERO","fotoUrl":"","description":"","price":15},{"name":"SAL CON AJO","fotoUrl":"","description":"","price":15},{"name":"SAL DE MAR DE GRANO","fotoUrl":"","description":"","price":15},{"name":"SAL HIMALAYA GRANULADA","fotoUrl":"","description":"","price":15},{"name":"TOMILLO ENTERO","fotoUrl":"","description":"","price":15}]},{"name":"SEMILLAS Y GRANOS","items":[{"name":"AJONJOLI NEGRO","fotoUrl":"","description":"","price":15},{"name":"AJONJOLI SIN CUTICULA","fotoUrl":"","description":"","price":15},{"name":"ALPISTE SIMPLE","fotoUrl":"","description":"","price":15},{"name":"ALUBIA GRANDE","fotoUrl":"","description":"","price":15},{"name":"AMARANTO","fotoUrl":"","description":"","price":15},{"name":"ARROZ INTEGRAL","fotoUrl":"","description":"","price":15},{"name":"ARROZ PROGRESO EXTRA","fotoUrl":"","description":"","price":15},{"name":"AVENA INTEGRAL GRANDE","fotoUrl":"","description":"","price":15},{"name":"CEBADA PELADA","fotoUrl":"","description":"","price":15},{"name":"CHIA DELGADA","fotoUrl":"","description":"","price":15},{"name":"FRIJOL AYOCOTE PINTO","fotoUrl":"","description":"","price":15},{"name":"FRIJOL NEGRO","fotoUrl":"","description":"","price":15},{"name":"FRIJOL PERUANO HIGUERA","fotoUrl":"","description":"","price":15},{"name":"FRIJOL TEXANO","fotoUrl":"","description":"","price":15},{"name":"GARBANZO","fotoUrl":"","description":"","price":15},{"name":"GARBANZO ENCHILADO","fotoUrl":"","description":"","price":15},{"name":"HABA PELADA","fotoUrl":"","description":"","price":15},{"name":"HARINA DE AMARANTO","fotoUrl":"","description":"","price":15},{"name":"HARINA DE AVENA","fotoUrl":"","description":"","price":15},{"name":"HARINA DE TRIGO (ESPUMA DE CHAPALA)","fotoUrl":"","description":"","price":15},{"name":"HUEVOS DE GRANJA ROJOS","fotoUrl":"","description":"","price":15},{"name":"LENTEJA GRANDE","fotoUrl":"","description":"","price":15},{"name":"LINAZA","fotoUrl":"","description":"","price":15},{"name":"LINAZA MOLIDA","fotoUrl":"","description":"","price":15},{"name":"MAIZ PALOMERO","fotoUrl":"","description":"","price":15},{"name":"MAIZ POZOLERO JUMBO","fotoUrl":"","description":"","price":15},{"name":"PEPITA CALABAZA CRUDA IMPORTADA","fotoUrl":"","description":"","price":15},{"name":"QUINOA PERLADA","fotoUrl":"","description":"","price":15},{"name":"SEMILLA GIRASOL CRUDA IMPORTADA","fotoUrl":"","description":"","price":15},{"name":"SEMILLA TAPATIA DORADA","fotoUrl":"","description":"","price":15},{"name":"TAPIOCA","fotoUrl":"","description":"","price":15}]},{"name":"SNACK SALUDABLE","items":[{"name":"AMOROZ AMARANTO CHICO (PAQUETE DE 10)","fotoUrl":"","description":"","price":15},{"name":"BETABEL DESHIDRATADO","fotoUrl":"","description":"","price":15},{"name":"CAMOTE DESHIDRATADO","fotoUrl":"","description":"","price":15},{"name":"CHICHARRON DE SOYA","fotoUrl":"","description":"","price":15},{"name":"GRANOLA SANTA MAURA","fotoUrl":"","description":"","price":15},{"name":"JICAMA ADOBADA","fotoUrl":"","description":"","price":15},{"name":"JICAMA C/ LIMON","fotoUrl":"","description":"","price":15},{"name":"JICAMA FUEGO","fotoUrl":"","description":"","price":15},{"name":"JICAMA HABANERO","fotoUrl":"","description":"","price":15},{"name":"JICAMA QUESO","fotoUrl":"","description":"","price":15},{"name":"JICAMA SALSAS NEGRAS","fotoUrl":"","description":"","price":15},{"name":"MANGO NATURAL ENCHILADO PREMIER","fotoUrl":"","description":"","price":15},{"name":"MANZANA DESHIDRATADA ANILLOS","fotoUrl":"","description":"","price":15},{"name":"PEPINO C/ SALSAS NEGRAS","fotoUrl":"","description":"","price":15},{"name":"PLATANO DESHYDRATADO","fotoUrl":"","description":"","price":15},{"name":"TAKIS COLIFLOR FUEGO","fotoUrl":"","description":"","price":15},{"name":"TAKIS ESPINACA LIMON","fotoUrl":"","description":"","price":15}]},{"name":"Sin categoría","items":[{"name":"ARNICA WIPATE","fotoUrl":"","description":"","price":15},{"name":"CAMOTE ADOBADO","fotoUrl":"","description":"","price":15},{"name":"JAMAICA C/ CHILE","fotoUrl":"","description":"","price":15},{"name":"POLEN","fotoUrl":"","description":"","price":15}]},{"name":"TISANAS HERBALES","items":[{"name":"ABANGO","fotoUrl":"","description":"","price":15},{"name":"CALENDULA TALLO","fotoUrl":"","description":"","price":15},{"name":"COLA DE CABALLO","fotoUrl":"","description":"","price":15},{"name":"HIERBABUENA","fotoUrl":"","description":"","price":15},{"name":"HOJA EUCALIPTO","fotoUrl":"","description":"","price":15},{"name":"LAVANDA ALUCEMA","fotoUrl":"","description":"","price":15},{"name":"MANZANILLA FLOR IMPORTADA","fotoUrl":"","description":"","price":15},{"name":"MENTA VERDE IMPORTADA","fotoUrl":"","description":"","price":15},{"name":"PASIFLORA","fotoUrl":"","description":"","price":15},{"name":"TE BLANCO","fotoUrl":"","description":"","price":15},{"name":"TE CHAI","fotoUrl":"","description":"","price":15},{"name":"TE JAZMIN","fotoUrl":"","description":"","price":15},{"name":"TE LIMON","fotoUrl":"","description":"","price":15},{"name":"TE NEGRO CORTE BOLITA","fotoUrl":"","description":"","price":15},{"name":"TE ROJO","fotoUrl":"","description":"","price":15},{"name":"TE VERDE GP ENTERO","fotoUrl":"","description":"","price":15},{"name":"TILA FLOR","fotoUrl":"","description":"","price":15}]}]}
+{
+  "meta": {
+    "title": "Casa Bert Mini App",
+    "subtitle": "Catálogo dinámico",
+    "updatedAt": "14/02/2026 23:23",
+    "cacheSeconds": 180
+  },
+  "brand": {
+    "logoUrl": "",
+    "primary": "#0f3d2e",
+    "secondary": "#1f7a53",
+    "tertiary": "#2f9e74",
+    "accent": "#a7f3d0"
+  },
+  "hero": {
+    "badge": "CASA BERT",
+    "title": "Snacks saludables a solo $15 MXN",
+    "text": "Carrito rápido, categorías y fichas de producto."
+  },
+  "cta": {
+    "addButtonLabel": "Agregar",
+    "emptyCartText": "Tu carrito está vacío. ¡Empieza a agregar productos!"
+  },
+  "pricing": {
+    "currency": "MXN",
+    "fixedPrice": 15,
+    "label": "Precio único: $15 MXN"
+  },
+  "location": {
+    "name": "Casa Bert",
+    "address": "Epigmenio González 1106, Mexicaltzingo, Guadalajara",
+    "phone": "+523318779389",
+    "mapUrl": "https://maps.app.goo.gl/BCrKEeEuDD6sPMqC6",
+    "instagram": "https://www.instagram.com/casa_bert/?hl=en",
+    "facebook": "",
+    "photos": [],
+    "instagramPhotos": [],
+    "placeId": "ChIJH9nmQ1-xKIQR4Ke7BiCqfGk"
+  },
+  "catalog": [
+    {
+      "name": "BOTANAS",
+      "items": [
+        {
+          "name": "BOTANA MIXTA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CACAHUATE CASCARITA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CACAHUATE ENCHILADO GRANDE",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CACAHUATE GARAMPINADO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CACAHUATE JAPONES HOT NUT",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CACAHUATE JAPONES HOT QUESO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CACAHUATE JAPONES SIMPLE DELAROSA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CACAHUATE MACHO GRANDE",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CACAHUATE MARTAJADO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "FRITURA ENCHILADA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "HABA ENCHILADA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "MAIZ CHILE LIMON",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "MAIZ INFLADO CHILE LIMON",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "MAIZ INFLADO JALAPENO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "MAIZ INFLADO QUESO CHILE",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "MAIZ INFLADO RANCHERO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "MAIZ INFLADO SALSAS NEGRAS",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "PALOMITA NATURAL",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "PAPA FRITA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "name": "CEREALES",
+      "items": [
+        {
+          "name": "CEREAL FRUTIRUEDA (FROOT LOOPS)",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CEREAL HOJUELA AZUCARADA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CEREAL RIKIRROZ MAIZORO (CHOCO KRISPIS)",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "name": "CHOCOLATES",
+      "items": [
+        {
+          "name": "ALMENDRA CON CHOCOLATE",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CAFE CON CHOCOLATE",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CHISPAS DE CHOCOLATE LUSSEL",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CHOCOLATE AMARGO S/ AZUCAR",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CONFICHOKY",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "MINI-LUNETAS",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "PASAS CON CHOCOLATE",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "name": "DULCES",
+      "items": [
+        {
+          "name": "ARO DURAZNO LUCKY",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "ATE DE MEMBRILLO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "BOMBON MEDIANO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "BOMBON MINIATURA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "BORRACHITOS",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CACAHUATE C/CARAMEL",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CANGURU MANGO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CANGURU SANDIA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CANGURU TAMARINDO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CEREZA CHERRY",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CORAZON LUCKY",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "GAJO COLOR",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "HUESITO (CHOCO-GALLETA)",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "LAPOSSE SOUR FRUTS",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "LUNETA DE COLORES",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "MANGO PETACON CHAMOY",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "MANGOMITA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "PINA ENCHILADA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "name": "ENDULZANTES",
+      "items": [
+        {
+          "name": "AZUCAR ESTANDAR",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "AZUCAR MASCABADO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "PILONCILLO CONO MEXPAN",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "PILONCILLO MOLIDO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "name": "GOMITAS",
+      "items": [
+        {
+          "name": "FRUTA LUCKY",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "GOMAS FRUTAS DEL BOSQUE",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "GOMINA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "LOMBRICES",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "LOMBRICES ACIDITAS (NEON LUCKY)",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "PANDA RICOLINO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "SHARK LUCKY",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "name": "HARINAS",
+      "items": [
+        {
+          "name": "GALLETA ANIMALITO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "GALLETA AVENA (CAJA)",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "GALLETA BIROTITO (CAJA)",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "GALLETA CAMPECHANA (CAJA)",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "GALLETA INTEGRAL MULTIGRANO (CAJA)",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "GALLETA MANTEQUILLA (CAJA)",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "GALLETA MINI LETRA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "GALLETA OREJAS",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "GALLETA POLVORON DE NARANJA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "PAN DE TRIGO Y SALVADO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "PAN DE TRIGO Y SALVADO C/FRUTOS",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "name": "NUECES Y FRUTOS SECOS",
+      "items": [
+        {
+          "name": "ALMENDRA EN POLVO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "ALMENDRA ENTERA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "ARANDANO OCEAN",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "AVELLANA PELADA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CACAHUATE DORADO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CHABACANO ENTERO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CIRUELA PASA S/HUESO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "COCO ORGANICO MOLIDO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "COCO REBANADO NATURAL Y DORADO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "DATIL GRANDE MEDJOOL",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "FRUTA PICADA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "NUEZ DE CASTILLA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "NUEZ DE LA INDIA CON SAL",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "NUEZ MITADES",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "NUEZ MIXTA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "PISTACHE CHIO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "UVA PASA MEDIANA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "name": "OTROS POLVOS Y AFINES",
+      "items": [
+        {
+          "name": "GRENETINA GEL CENTRO 300 BLUMS",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "name": "PRODUCTOS PARA BEBIDAS",
+      "items": [
+        {
+          "name": "CACAO MOLIDO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CAFE SOLUBLE",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "JAMAICA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "LECHE EN POLVO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "TAMARINDO ENTERO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "name": "REGALOS",
+      "items": [
+        {
+          "name": "LIBRETA (PIEZA)",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "PULSERA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "name": "SALES, ESPECIAS Y CONDIMENTOS",
+      "items": [
+        {
+          "name": "AJO ENTERO MEDIANO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "AJO MOLIDO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "ALBAHACA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "ANIS ESTRELLA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "ANIS VERDE",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "BICARBONATO DE SODIO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CANELA EN VARA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CANELA PURA MOLIDA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CARDAMOMO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CEBOLLA ENTERA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CEBOLLA MOLIDA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CHILE ANCHO 1ERA PASERA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CHILE INDIO S/C S-17",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CHILE MIRASOL 1ERA PASERA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CLAVO DE OLOR",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CLAVO DE OLOR MOLIDO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "COMINO ENTERO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "COMINO MOLIDO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CONSAZON CONSOME",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CURCUMA ENTERA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CURCUMA MOLIDA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CURRY POLVO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "HOJA BUGAMBILIA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "HOJA CILANTRO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "HOJAS LAUREL ENTERA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "JENGIBRE ENTERO (SECO)",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "JENGIBRE MOLIDO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "NUEZ MOSCADA MOLIDA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "OREGANO CON MARCA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "PEREJIL",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "PIMIENTA CAYENA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "PIMIENTA NEGRA MOLIDA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "PIMIENTA TABASCO DE ORIGEN",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "ROMERO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "SAL CON AJO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "SAL DE MAR DE GRANO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "SAL HIMALAYA GRANULADA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "TOMILLO ENTERO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "name": "SEMILLAS Y GRANOS",
+      "items": [
+        {
+          "name": "AJONJOLI NEGRO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "AJONJOLI SIN CUTICULA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "ALPISTE SIMPLE",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "ALUBIA GRANDE",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "AMARANTO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "ARROZ INTEGRAL",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "ARROZ PROGRESO EXTRA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "AVENA INTEGRAL GRANDE",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CEBADA PELADA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CHIA DELGADA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "FRIJOL AYOCOTE PINTO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "FRIJOL NEGRO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "FRIJOL PERUANO HIGUERA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "FRIJOL TEXANO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "GARBANZO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "GARBANZO ENCHILADO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "HABA PELADA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "HARINA DE AMARANTO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "HARINA DE AVENA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "HARINA DE TRIGO (ESPUMA DE CHAPALA)",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "HUEVOS DE GRANJA ROJOS",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "LENTEJA GRANDE",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "LINAZA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "LINAZA MOLIDA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "MAIZ PALOMERO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "MAIZ POZOLERO JUMBO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "PEPITA CALABAZA CRUDA IMPORTADA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "QUINOA PERLADA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "SEMILLA GIRASOL CRUDA IMPORTADA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "SEMILLA TAPATIA DORADA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "TAPIOCA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "name": "SNACK SALUDABLE",
+      "items": [
+        {
+          "name": "AMOROZ AMARANTO CHICO (PAQUETE DE 10)",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "BETABEL DESHIDRATADO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CAMOTE DESHIDRATADO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CHICHARRON DE SOYA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "GRANOLA SANTA MAURA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "JICAMA ADOBADA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "JICAMA C/ LIMON",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "JICAMA FUEGO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "JICAMA HABANERO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "JICAMA QUESO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "JICAMA SALSAS NEGRAS",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "MANGO NATURAL ENCHILADO PREMIER",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "MANZANA DESHIDRATADA ANILLOS",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "PEPINO C/ SALSAS NEGRAS",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "PLATANO DESHYDRATADO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "TAKIS COLIFLOR FUEGO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "TAKIS ESPINACA LIMON",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "name": "Sin categoría",
+      "items": [
+        {
+          "name": "ARNICA WIPATE",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CAMOTE ADOBADO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "JAMAICA C/ CHILE",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "POLEN",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "name": "TISANAS HERBALES",
+      "items": [
+        {
+          "name": "ABANGO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "CALENDULA TALLO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "COLA DE CABALLO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "HIERBABUENA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "HOJA EUCALIPTO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "LAVANDA ALUCEMA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "MANZANILLA FLOR IMPORTADA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "MENTA VERDE IMPORTADA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "PASIFLORA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "TE BLANCO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "TE CHAI",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "TE JAZMIN",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "TE LIMON",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "TE NEGRO CORTE BOLITA",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "TE ROJO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "TE VERDE GP ENTERO",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        },
+        {
+          "name": "TILA FLOR",
+          "fotoUrl": "",
+          "description": "",
+          "price": 15
+        }
+      ]
+    }
+  ]
+}

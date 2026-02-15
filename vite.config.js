@@ -3,5 +3,19 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/bertTGMiniApp/'
+  base: '/',
+  server: {
+    proxy: {
+      '/api/checkout': {
+        target: 'https://casabert.mx',
+        changeOrigin: true,
+        secure: true
+      },
+      '/api/storefront': {
+        target: 'https://casabert.mx',
+        changeOrigin: true,
+        secure: true
+      }
+    }
+  }
 });

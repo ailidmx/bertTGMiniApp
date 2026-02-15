@@ -1,80 +1,160 @@
+:root {
+  --bg: #f3fbf6;
+  --card: #ffffff;
+  --text: #0d2b20;
+  --muted: #4f6f62;
+  --primary: #176b4a;
+  --primary-2: #239a67;
+  --border: #d9efe4;
+}
+
+* { box-sizing: border-box; }
+
 body {
   margin: 0;
-  font-family: 'Inter', Arial, sans-serif;
-  background: #0f172a;
-  color: #e2e8f0;
+  font-family: Inter, system-ui, Arial, sans-serif;
+  color: var(--text);
+  background: linear-gradient(180deg, #eff9f3 0%, var(--bg) 100%);
 }
 
 .app {
-  max-width: 960px;
+  max-width: 1120px;
   margin: 0 auto;
-  padding: 24px;
+  padding: 18px;
 }
 
-header {
-  background: linear-gradient(120deg, #1e293b, #0f172a);
-  border-radius: 16px;
-  padding: 20px;
-  margin-bottom: 16px;
+.hero {
+  background: linear-gradient(135deg, #0f4d36 0%, #1c7b54 60%, #2ca06d 100%);
+  border-radius: 18px;
+  color: #fff;
+  padding: 22px;
+  margin-bottom: 14px;
+  box-shadow: 0 16px 34px rgba(14, 61, 43, 0.25);
 }
 
-header h1 {
-  margin: 0;
-  font-size: 22px;
+.logo {
+  width: 62px;
+  height: 62px;
+  border-radius: 14px;
+  object-fit: cover;
+  border: 2px solid rgba(255, 255, 255, 0.45);
+}
+
+.pill {
+  margin: 10px 0 8px;
+  display: inline-block;
+  font-size: 11px;
+  letter-spacing: .08em;
+  font-weight: 700;
+  padding: 5px 10px;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  background: rgba(255, 255, 255, 0.18);
+}
+
+.hero h1 { margin: 0 0 6px; font-size: clamp(24px, 4.8vw, 36px); }
+.hero p { margin: 0; max-width: 760px; line-height: 1.45; }
+
+.panel {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 14px;
+  margin-bottom: 14px;
+}
+
+.panel-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+
+.panel-head h2 { margin: 0; }
+.panel-head strong { color: var(--primary); }
+
+.category h3 { margin: 14px 0 10px; }
+
+.carousel {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: minmax(220px, 260px);
+  gap: 12px;
+  overflow-x: auto;
+  padding-bottom: 6px;
 }
 
 .card {
-  background: #1e293b;
-  border-radius: 16px;
-  padding: 16px;
-  margin-bottom: 16px;
-}
-
-.grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-  gap: 10px;
-}
-
-.grid div {
-  background: #0f172a;
+  border: 1px solid var(--border);
   border-radius: 12px;
-  padding: 10px;
+  overflow: hidden;
+  background: #fff;
 }
 
-.grid span {
-  display: block;
-  font-size: 12px;
-  color: #94a3b8;
-}
-
-.grid strong {
-  font-size: 16px;
-}
-
-.category {
-  margin-top: 12px;
-}
-
-.products {
+.card img,
+.photo-fallback {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-  gap: 10px;
-}
-
-.product {
-  background: #0f172a;
-  border-radius: 12px;
-  padding: 10px;
-  text-align: center;
-}
-
-.product img {
+  place-items: center;
   width: 100%;
-  border-radius: 10px;
-  margin-bottom: 8px;
+  height: 140px;
+  object-fit: cover;
 }
 
-.error {
-  color: #f87171;
+.photo-fallback {
+  background: #e7f8ef;
+  color: #237a55;
+  font-weight: 700;
+}
+
+.content { padding: 10px; }
+.content h4 { margin: 0 0 5px; font-size: 15px; }
+.content p { margin: 0; min-height: 36px; color: var(--muted); font-size: 13px; }
+
+.foot {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.foot button {
+  border: 0;
+  background: var(--primary);
+  color: #fff;
+  border-radius: 9px;
+  padding: 8px 10px;
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.foot button:hover { background: var(--primary-2); }
+
+.total { color: var(--primary); font-weight: 700; }
+.empty { color: #60776c; }
+
+.lines { display: grid; gap: 8px; }
+.line {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 8px 10px;
+  background: #fbfffc;
+}
+
+.links {
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.links a {
+  text-decoration: none;
+  padding: 8px 11px;
+  border-radius: 999px;
+  border: 1px solid #c4e8d7;
+  background: #ecfcf3;
+  color: var(--primary);
+  font-weight: 700;
 }
